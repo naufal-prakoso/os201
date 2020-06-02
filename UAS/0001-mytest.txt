@@ -1,0 +1,26 @@
+Script started on Tue 02 Jun 2020 04:18:30 PM WIB
+naufal.thirafy@badak:~$ PS1="$ "
+$ echo $GitHubUser
+naufal-prakoso
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200602-161904-af47-naufal.thirafy/>
+$ PS1="\$(eval \$PSTAMP)"
+200602-161910-7559-naufal.thirafy/> date
+Tue Jun  2 16:19:16 WIB 2020
+200602-161916-fe3f-naufal.thirafy/> gpg2 --list-keys
+/home/fasilkom/mahasiswa/n/naufal.thirafy/.gnupg/pubring.gpg
+------------------------------------------------------------
+pub   4096R/67DF6DDE 2020-02-13 [expires: 2021-02-12]
+uid       [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
+
+pub   4096R/07068A72 2020-06-02 [expires: 2021-06-02]
+uid       [ultimate] Naufal Thirafy Prakoso (Hello) <naufal.prakoso@gmail.com>
+sub   4096R/B25FDFE8 2020-06-02 [expires: 2021-06-02]
+
+200602-161922-c7e2-naufal.thirafy/> exit
+exit
+
+Script done on Tue 02 Jun 2020 04:19:28 PM WIB
