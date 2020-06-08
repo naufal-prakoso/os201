@@ -8,7 +8,7 @@ Naufal Thirafy Prakoso <br/>
 Information Systems Student <br/>
 Currently Studying in University of Indonesia <br/>
 Avid learner <br/>
-Loves Travelling
-### In Regards to Operating Systems
+Loves Travelling <br/>
+### Operating Systems
 <br/>
 [Useful URLs](URLs/)
