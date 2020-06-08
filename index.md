@@ -3,12 +3,12 @@
 This GitHub repository is created in order to fulfill the requirements to complete the final project of Operating Systems class
 
 ### TL;DR
-
-Naufal Thirafy Prakoso
-Information Systems Student
-Currently Studying in University of Indonesia
-Avid learner
-Loves Travelling
-
+<br/>
+Naufal Thirafy Prakoso <br/>
+Information Systems Student <br/>
+Currently Studying in University of Indonesia <br/>
+Avid learner <br/>
+Loves Travelling <br/>
+<br/>
 ### In Regards to Operating Systems
 [Useful URLs](URLs/)
