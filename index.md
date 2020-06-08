@@ -9,6 +9,6 @@ Information Systems Student <br/>
 Currently Studying in University of Indonesia <br/>
 Avid learner <br/>
 Loves Travelling <br/>
-<br/>
 ### In Regards to Operating Systems
+<br/>
 [Useful URLs](URLs/)
