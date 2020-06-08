@@ -10,5 +10,4 @@ Currently Studying in University of Indonesia <br/>
 Avid learner <br/>
 Loves Travelling <br/>
 ### Operating Systems
-<br/>
 [Useful URLs](URLs/)
