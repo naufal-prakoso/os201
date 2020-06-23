@@ -5,7 +5,7 @@ naufal-prakoso
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200602-161904-af47-naufal.thirafy/>
+200602-161904-af47-naufal.thirafy/> 
 $ PS1="\$(eval \$PSTAMP)"
 200602-161910-7559-naufal.thirafy/> date
 Tue Jun  2 16:19:16 WIB 2020
